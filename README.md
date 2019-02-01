@@ -45,9 +45,9 @@ Agenda:
 
 6. Cross-Border Use Cases – Payouts
 
-How enterprises pay employees, contractors, developers and publishers in multiple countries
-The challenges of reaching developing countries
-Incumbents and challengers – Payoneer, Tipalti, and Hyperwallet
+- How enterprises pay employees, contractors, developers and publishers in multiple countries
+- The challenges of reaching developing countries
+- Incumbents and challengers – Payoneer, Tipalti, and Hyperwallet
 
 7. Cross-Border Use Cases – International Remittances
 
